@@ -1,0 +1,43 @@
+html {
+    color: #20C3FF;
+    background-color: #171717;
+  font-family: "MinecraftiaRegular"; 
+}
+nav a {
+    margin-right: -2px;
+    margin-left: -2px;
+    border: 2px #171717;
+    color: #20C3FF;
+}
+header {
+    text-align: center;	    
+    text-align: center;
+	}
+.foot {
+    margin-left: 40px;
+}
+.foo {
+    margin-left: 15px;
+}
+img#home {
+    margin-left: 542px;
+    margin-right: 500px;
+}
+img#ps4 {
+    margin-left: 605px;   
+    margin-right: 600px;
+}
+img#he {
+    margin-left: 612px;
+
+}
+img#bedrock {
+    margin-left: 560px;
+    margin-right: 550px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
