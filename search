@@ -1,0 +1,35 @@
+let thisIsConsole = "playstation"
+let thisIsUsername = "jim"
+
+
+
+function loadData (thisIsUsername, thisIsConsole) {
+  "user" : 
+  [
+    {
+      "username" : "jimbob47"
+      "console"  : "playstation"
+      "contact"  : "jimbob23 - insta"
+     },
+    {
+      "username" : "Dukas24#23"
+      "console"  : "Xbox"
+      "contact"  : "itsDukas - Twitter"
+    },
+    {
+      "username" : "sniperman27"
+      "console"  : "Other - Epic Games"
+      "contact"  : "RogSmith47"
+    }
+  ]
+  
+  if (thisIsUsername = ) {
+      if(thisIsConsole = ) {
+      
+         }
+      }
+      
+}
+function paintData() {
+  
+}
